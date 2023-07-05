@@ -2,7 +2,7 @@
 
 I am an iOS developer with experience in building app for some small and medium project. I also have experience in developing Web-app with Python and Flask.
 
-[![Top Langs](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khant-SoDOpe&show_icons=true&theme=transparent))
+https://github-readme-stats.vercel.app/api?username=Khant-SoDOpe&show_icons=true&theme=transparent
 
 <h3 align="left">Languages and Tools:</h3>
 
