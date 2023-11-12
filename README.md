@@ -4,8 +4,7 @@ I am a skilled iOS developer proficient in building applications for small and m
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khant-SoDOpe&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khant-SoDOpe&show_icons=true)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khant-SoDOpe&" alt="naingaungluu" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
