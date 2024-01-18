@@ -38,9 +38,3 @@
 <a href="https://twitter.com/Khant_SoDOpe">
   <img align="left" height="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg"/>
 </a>
-
-<br>
-
----
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khant-SoDOpe&" alt="khantzay" /></p>
