@@ -36,5 +36,3 @@
 <a href="https://twitter.com/Khant_SoDOpe">
   <img align="left" height="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg"/>
 </a>
-
-[![committers.top badge](https://user-badge.committers.top/myanmar_private/Khant-SoDOpe.svg)](https://user-badge.committers.top/myanmar_private/Khant-SoDOpe)
