@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Khant Zay Lynn Yaung</h1>
+<h1 align="center">Hi 👋, I'm Sai Khant Zay Lynn Yaung AKA Andrew</h1>
 <h3 align="center">A student and sometimes, an iOS Developer.</h3>
 
 - 🔭 I’m currently working on [Prizama](https://github.com/Khant-SoDOpe/Prizama)
