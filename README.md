@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Khant Zay Lynn Yaung (Andrew)</h1>
 <h3 align="center">A student and sometimes, an iOS Developer.</h3>
 
-- 🔭 I’m currently working on [Prizama](https://github.com/Khant-SoDOpe/Prizama)
-
 - 🌱 I’m currently learning **Swift and iOS Development**
 
 - 👨‍💻 All of my projects are available at [khantzay.com](https://khantzay.com)
