@@ -17,7 +17,6 @@ Welcome to my GitHub! I'm a passionate developer from Yangon, Myanmar, always st
 - Git & GitHub Workflow
 
 ## 🌟 Projects
-- **Security System:** Real-time motion and face detection, plus video analysis for human presence.
 - **Portfolio Website:** [khantzay.com](https://khantzay.com)
 - **GitHub Repos:**  
   - [khantzay-portfolio](https://github.com/Khant-SoDOpe/khantzay-portfolio)
